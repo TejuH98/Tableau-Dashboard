@@ -6,4 +6,4 @@
 2. First time multiple data source joining and visualization.
 3. First dashboard creation.
 4. Co2 emission per capita visualization.
-5. World happiness visualization![Uploading image.png…]()
+5. World happiness visualization.
